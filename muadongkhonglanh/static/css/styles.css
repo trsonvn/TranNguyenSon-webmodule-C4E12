@@ -1,0 +1,18 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+h1{
+  color: blue;
+}
+h2{
+  color: rgb(160,152,86);
+}
+#heading1 {
+  background-color: rgb(255, 6, 7);
+  display: inline;
+  padding: 100px;
+  border: 10px blue solid;
+  border-width: 10px;
+}
+
+.ml500{
+  margin-left: 500px
+}
